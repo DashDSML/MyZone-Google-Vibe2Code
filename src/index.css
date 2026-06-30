@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Source Serif 4", Georgia, serif;
+
+  --color-paper: #F7F9F7;
+  --color-ink: #0E3B43;
+  --color-ink-soft: #3C5F63;
+  --color-teal-brand: #1C6E5C;
+  --color-teal-dark: #124E40;
+  --color-teal-light: #E1F0EA;
+  --color-terracotta: #D98B3F;
+  --color-terracotta-light: #FBEEDD;
+  --color-terracotta-dark: #8A521F;
+  --color-slate-blue: #3D7A8C;
+  --color-slate-light: #E5EFF2;
+  --color-hairline: #E4ECE9;
+  --color-line-strong: #C3CFC8;
+  --color-card: #FFFFFF;
+  --color-muted-grey: #6B7E78;
+  --color-red-accent: #B0473D;
+  --color-red-light: #F8E7E4;
+}
+
+:root {
+  background-color: #F7F9F7;
+  color: #0E3B43;
+}
