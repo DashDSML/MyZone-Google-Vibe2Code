@@ -245,4 +245,4 @@ Named explicitly in the specs to prevent silent scope creep later:
 
 ---
 
-**📄 Back to [`README.md`](./README.md) for the project overview.**
+**📄 Back to [`README.md`](./description.md) for the project overview.**
